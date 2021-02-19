@@ -23,7 +23,7 @@ Library | React
     * In backend directory, in terminal run: php artisan serve
 2. Run frontend
     * In frontend directory, in terminal run: npm start
-3. Keep both running consensually.
+3. Keep both running simultaneously.
 
 
 
