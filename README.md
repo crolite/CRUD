@@ -12,7 +12,7 @@ Technology	| Used
 **Backend** | **Backend**
 Programming language | PHP
 Framework | Laravel
-#### Frontend |####  Frontend
+### Frontend |### Frontend
 Programming language | JavaScript
 Library | React
 
