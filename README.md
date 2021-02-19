@@ -2,7 +2,7 @@
 
 ##Project management system.
                 
-It allows to create and delete projects. Every project has a number of groups and groups have a number of students in them. Students can be manipulated by being removed, added and assigned to certain groups.
+Application allows to create and delete projects. Every project has a number of groups and groups have a number of students in them. Students can be manipulated by being removed, added and assigned to certain groups.
 
 
 ### Technical aspects
