@@ -1,0 +1,13 @@
+.main-text{
+    justify-content:center;
+    display: flex;
+    align-items:center;
+}
+
+.text-lineup{
+    list-style: none;
+    
+}
+.text-lineup>li{
+    margin: 0.5rem 1rem ;
+}
