@@ -20,9 +20,9 @@ Library | React
 ###  How to operate
 
 1. Run backend
-  1. In backend directory, in terminal run: php artisan serve
+    1. In backend directory, in terminal run: php artisan serve
 2. Run frontend
-  1. In frontend directory, in terminal run: npm start
+    1. In frontend directory, in terminal run: npm start
 3. Keep both running consensually.
 
 
